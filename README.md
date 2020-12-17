@@ -1,3 +1,5 @@
+[![CI](https://github.com/philskat/webpack-typescript-starter/workflows/CI/badge.svg?event=push)](https://github.com/philskat/webpack-typescript-starter/actions?query=workflow%3A%22CI%22)
+
 # Webpack-typescript-starter
 
 This repository is used as a template for webpack projects.
