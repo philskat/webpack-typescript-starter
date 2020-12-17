@@ -1,0 +1,6 @@
+# Build
+dist/
+
+# Misc
+node_modules/
+.vscode/
