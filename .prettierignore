@@ -1,0 +1,9 @@
+# Build
+dist/
+
+# Misc
+node_modules/
+.vscode/
+package-lock.json
+package.json
+README.md
